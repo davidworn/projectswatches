@@ -1,8 +1,9 @@
 
 .vertical-center {
-  min-height: 50%;
+  min-height: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center; }
   .vertical-center img {
+    width: 500;
     margin:0 auto; }
